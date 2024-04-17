@@ -9,4 +9,5 @@ This project encompasses a Python-based web application built using Flask, offer
 
 You can try the app in this [link](https://pythonweather-89j5.onrender.com/)
 
+Get a sneak peek into the captivating world of our game with this preview image!
 <img width="1286" alt="Screenshot 2024-04-16 at 9 56 16 PM" src="https://github.com/gaspardantas/pythonWeather/assets/106454643/0b509d38-15bf-407d-a8b2-fbd97b4d20a6">
