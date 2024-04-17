@@ -1,0 +1,2 @@
+# pythonWeather Project
+## Getting started
