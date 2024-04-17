@@ -1,0 +1,42 @@
+/* Existing styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 2rem;
+  background: linear-gradient(to bottom, #86c0e4, #155185);
+  color: whitesmoke;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  font-size: 1.6rem;
+}
+
+input,
+button {
+  font-size: 1.6rem;
+  padding: 1rem;
+  border-radius: 10px;
+  border: none;
+  background-color: #fff;
+  color: grey;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+input:hover,
+button:hover {
+  background-color: #4bb0eb;
+  color: #666;
+}
+
+/* New styles for placeholder */
+input::placeholder {
+  font-size: 1.4rem; /* Adjust placeholder font size */
+  padding: 0.5rem; /* Adjust padding for placeholder */
+}
